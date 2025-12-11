@@ -1,6 +1,6 @@
 ---
-title:
-date:
+title: FASR Science Use Cases
+date: 2025-12-11
 type: page
 ---
 
