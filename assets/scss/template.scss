@@ -103,13 +103,10 @@ body .article-container .article-title {
   padding-bottom: 0.35rem;
 }
 
-// Hero section: starfield feel with cool tones and lighter text
+// Hero section: display background image with overlay
 .home-section.wg-hero {
   position: relative;
   overflow: hidden;
-  background: radial-gradient(circle at 20% 20%, rgba(65, 119, 196, 0.18), transparent 5%),
-    radial-gradient(circle at 80% 10%, rgba(34, 79, 143, 0.22), transparent 8%),
-    linear-gradient(180deg, #071427 0%, #0a1d38 45%, #0a2447 30%);
   color: #e9f2ff;
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -125,12 +122,15 @@ body .article-container .article-title {
   position: absolute;
   inset: 0;
   pointer-events: none;
-  background-image: radial-gradient(1px 1px at 10% 20%, rgba(255, 255, 255, 0.2)),
-    radial-gradient(1px 1px at 25% 40%, rgba(255, 255, 255, 0.1)),
-    radial-gradient(1px 1px at 60% 30%, rgba(255, 255, 255, 0.25)),
-    radial-gradient(1px 1px at 80% 60%, rgba(255, 255, 255, 0.15)),
-    radial-gradient(1px 1px at 40% 75%, rgba(255, 255, 255, 0.05));
-  opacity: 0.2;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+.home-section.wg-hero .hero-title,
+.home-section.wg-hero .hero-lead,
+.home-section.wg-hero .cta-group {
+  position: relative;
+  z-index: 2;
 }
 
 .home-section.wg-hero .hero-title {
