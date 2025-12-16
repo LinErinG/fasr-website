@@ -1,6 +1,6 @@
-# FASR Test Website
+# FASR Website (Beta)
 
-This is a test website for the [Frequency Agile Solar Radiotelescope (FASR)](https://fasrtelescope.org/). FASR is a next-generation radio interferometer array dedicated to solar and space weather research.
+This is a website for the [Frequency Agile Solar Radiotelescope (FASR)](https://fasrtelescope.org/). The website is under construction. Please check back for updates.
 
 ## About FASR
 The **Frequency Agile Solar Radiotelescope (FASR)** is an advanced radio interferometer array designed for solar physics and space weather research. It aims to provide dynamic, high-resolution imaging spectroscopy to study the Sun's atmosphere in detail.
