@@ -11,10 +11,10 @@
 | Data channels | 2 (dual polarization) |
 | Instantaneous Bandwidth | A: 20 GHz; B: (2 GHz) |
 | Frequency resolution | Instrumental: 125 kHz; Science: min(1%, 5 MHz) |
-| Time resolution | Standard: 1 s; Bursty: down to 1 ms |
+| Time resolution | Standard: 0.1 s; Bursty: 20 ms; Spectial: <1 ms |
 | Polarization | Full Stokes (IQUV) |
-| Antennas deployed | A (2–20 GHz or 1.5-30 GHz): ~100-120; B (0.2–2 GHz): 60-100 |
-| Antenna sizes | A (2–20 GHz or 1.5-30 GHz): 2 m; B (0.2–2 GHz): 6 m |
+| Antennas deployed | A (1–20 GHz or 1.5-30 GHz): ~100-120; B (0.2–2 GHz): 60-100 |
+| Antenna sizes | A (1–20 GHz or 1.5-30 GHz): 2 m; B (0.2–2 GHz): 6 m |
 | Array size | 4 × 5 km |
 | Absolute position error | 1 arcsec |
 | Absolute flux calibration | Better than 10% |
